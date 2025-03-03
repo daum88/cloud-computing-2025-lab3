@@ -1,1 +1,8 @@
-{"messages": ["tere"]}
+{
+    "messages": [
+        {
+            "content": "tere",
+            "timestamp": "2025-03-03 12:00:00"
+        }
+    ]
+}
