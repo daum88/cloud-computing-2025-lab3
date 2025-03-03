@@ -5,7 +5,7 @@ from flask import Flask, render_template, request
 
 app = Flask(__name__)
 
-DATA_FILE_PATH = "/mnt/data.json"
+DATA_FILE_PATH = "data.json"
 
 def read_messages_from_file():
     """ Read all messages from a JSON file"""
